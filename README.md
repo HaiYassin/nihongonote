@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Nihongonote app in 'MERN' 
+
+> FRONT in React
+
+> Back in NodeJs with Express
+
+> DB in MongoDB
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
